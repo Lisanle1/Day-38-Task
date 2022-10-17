@@ -12,15 +12,12 @@
             $match:{Month:"October"},
         },
         {
-            $project: {"Topic_Id":1,"Topic":1,"Month":1,"Task_in_October.Task_Detail":1,"Task_in_October.Month":1},
-            
+            $project: {"Topic_Id":1,"Topic":1,"Month":1,"Task_in_October.Task_Detail":1,"Task_in_October.Month":1},           
         },
         ]);
 
-
 // Find all the company drives which appeared between 15 oct-2020 and 31-oct-2020
   db.company_drives.find({$and:[{Date:{$gte:"2020-10-15"}},{Date:{$lte:"2020-10-31"}}]});
-
 
 // Find all the company drives and students who are appeared for the placement.
     db.users.aggregate([
@@ -34,7 +31,6 @@
         }
         ]);
     
-
 // Find the number of problems solved by the user in codekata
     db.codekata.aggregate([
         {
@@ -44,11 +40,9 @@
         }
     ]);
 
-
 // Find all the mentors with who has the mentee's count more than 15
     db.mentors.find( { "Mentee_Count" : { "$gte" : 15 }});
    
- 
 // Find the number of users who are absent and task is not submitted  between 15 oct-2020 and 31-oct-2020
     db.attendance.find({
   "$and": [
