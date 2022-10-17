@@ -1,0 +1,11 @@
+{"_id":{"$oid":"634d6c8094b4236f1b0a9aa7"},"UserId":{"$numberInt":"1"},"ClassDate":"2020-04-03","Status":"Yes","Task_Completed":"Yes"}
+{"_id":{"$oid":"634d6c8094b4236f1b0a9aa6"},"UserId":{"$numberInt":"1"},"ClassDate":"2020-04-05","Status":"Yes","Task_Completed":"Yes"}
+{"_id":{"$oid":"634d6c8094b4236f1b0a9aa5"},"UserId":{"$numberInt":"1"},"ClassDate":"2020-10-26","Status":"No","Task_Completed":"No"}
+{"_id":{"$oid":"634d6c8094b4236f1b0a9aa4"},"UserId":{"$numberInt":"2"},"ClassDate":"2020-04-10","Status":"Yes","Task_Completed":"Yes"}
+{"_id":{"$oid":"634d6c8094b4236f1b0a9aa3"},"UserId":{"$numberInt":"2"},"ClassDate":"2020-04-11","Status":"Yes","Task_Completed":"Yes"}
+{"_id":{"$oid":"634d6c8094b4236f1b0a9aa2"},"UserId":{"$numberInt":"2"},"ClassDate":"2020-10-18","Status":"No","Task_Completed":"No"}
+{"_id":{"$oid":"634d6c8094b4236f1b0a9aa1"},"UserId":{"$numberInt":"3"},"ClassDate":"2020-05-01","Status":"Yes","Task_Completed":"Yes"}
+{"_id":{"$oid":"634d6c8094b4236f1b0a9aa0"},"UserId":{"$numberInt":"3"},"ClassDate":"2020-05-02","Status":"Yes","Task_Completed":"Yes"}
+{"_id":{"$oid":"634d6c8094b4236f1b0a9a9f"},"UserId":{"$numberInt":"3"},"ClassDate":"2020-05-04","Status":"Yes","Task_Completed":"Yes"}
+{"_id":{"$oid":"634d6c8094b4236f1b0a9a9e"},"UserId":{"$numberInt":"4"},"ClassDate":"2020-10-22","Status":"No","Task_Completed":"Yes"}
+{"_id":{"$oid":"634d6c8094b4236f1b0a9a9d"},"UserId":{"$numberInt":"5"},"ClassDate":"2020-04-03","Status":"Yes","Task_Completed":"No"}

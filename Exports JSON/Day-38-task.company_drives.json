@@ -1,0 +1,5 @@
+{"_id":{"$oid":"634d6cab94b4236f1b0a9aac"},"Drive_Id":{"$numberInt":"1"},"Company":"Zoho","Date":"2020-11-10","UserId":{"$numberInt":"1"},"Eligibility_criteria":"80%"}
+{"_id":{"$oid":"634d6cab94b4236f1b0a9aab"},"Drive_Id":{"$numberInt":"2"},"Company":"HCL","Date":"2020-11-15","UserId":{"$numberInt":"3"},"Eligibility_criteria":"60%"}
+{"_id":{"$oid":"634d6cab94b4236f1b0a9aaa"},"Drive_Id":{"$numberInt":"3"},"Company":"Infosys","Date":"2020-12-18","UserId":{"$numberInt":"4"},"Eligibility_criteria":"70%"}
+{"_id":{"$oid":"634d6cab94b4236f1b0a9aa9"},"Drive_Id":{"$numberInt":"4"},"Company":"Accenture","Date":"2020-10-25","UserId":{"$numberInt":"2"},"Eligibility_criteria":"75%"}
+{"_id":{"$oid":"634d6cab94b4236f1b0a9aa8"},"Drive_Id":{"$numberInt":"5"},"Company":"TCS","Date":"2020-10-17","UserId":{"$numberInt":"5"},"Eligibility_criteria":"65%"}

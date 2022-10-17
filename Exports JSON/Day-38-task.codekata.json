@@ -1,0 +1,11 @@
+{"_id":{"$oid":"634d58fe94b4236f1b0a9a65"},"UserId":{"$numberInt":"1"},"Problem_Id":{"$numberInt":"1"},"Topics":"Numbers","Completed":{"$numberInt":"20"},"Total":{"$numberInt":"50"}}
+{"_id":{"$oid":"634d58fe94b4236f1b0a9a64"},"UserId":{"$numberInt":"2"},"Problem_Id":{"$numberInt":"1"},"Topics":"Numbers","Completed":{"$numberInt":"30"},"Total":{"$numberInt":"50"}}
+{"_id":{"$oid":"634d58fe94b4236f1b0a9a63"},"UserId":{"$numberInt":"3"},"Problem_Id":{"$numberInt":"1"},"Topics":"Numbers","Completed":{"$numberInt":"10"},"Total":{"$numberInt":"50"}}
+{"_id":{"$oid":"634d58fe94b4236f1b0a9a62"},"UserId":{"$numberInt":"1"},"Problem_Id":{"$numberInt":"2"},"Topics":" Arrays","Completed":{"$numberInt":"40"},"Total":{"$numberInt":"100"}}
+{"_id":{"$oid":"634d58fe94b4236f1b0a9a61"},"UserId":{"$numberInt":"1"},"Problem_Id":{"$numberInt":"3"},"Topics":"String","Completed":{"$numberInt":"40"},"Total":{"$numberInt":"60"}}
+{"_id":{"$oid":"634d58fe94b4236f1b0a9a60"},"UserId":{"$numberInt":"2"},"Problem_Id":{"$numberInt":"2"},"Topics":"Arrays","Completed":{"$numberInt":"30"},"Total":{"$numberInt":"100"}}
+{"_id":{"$oid":"634d58fe94b4236f1b0a9a5f"},"UserId":{"$numberInt":"3"},"Problem_Id":{"$numberInt":"3"},"Topics":"String","Completed":{"$numberInt":"50"},"Total":{"$numberInt":"60"}}
+{"_id":{"$oid":"634d58fe94b4236f1b0a9a5e"},"UserId":{"$numberInt":"3"},"Problem_Id":{"$numberInt":"2"},"Topics":"Arrays","Completed":{"$numberInt":"70"},"Total":{"$numberInt":"100"}}
+{"_id":{"$oid":"634d58fe94b4236f1b0a9a5d"},"UserId":{"$numberInt":"2"},"Problem_Id":{"$numberInt":"3"},"Topics":"String","Completed":{"$numberInt":"55"},"Total":{"$numberInt":"60"}}
+{"_id":{"$oid":"634d58fe94b4236f1b0a9a5c"},"UserId":{"$numberInt":"4"},"Problem_Id":{"$numberInt":"1"},"Topics":"Numbers","Completed":{"$numberInt":"35"},"Total":{"$numberInt":"50"}}
+{"_id":{"$oid":"634d58fe94b4236f1b0a9a5b"},"UserId":{"$numberInt":"5"},"Problem_Id":{"$numberInt":"1"},"Topics":"Arrays","Completed":{"$numberInt":"25"},"Total":{"$numberInt":"100"}}

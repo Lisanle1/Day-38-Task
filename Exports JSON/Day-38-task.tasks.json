@@ -1,0 +1,4 @@
+{"_id":{"$oid":"634d6d1394b4236f1b0a9ab0"},"Topic_Id":{"$numberInt":"4"},"Task_Id":{"$numberInt":"4"},"Task_Detail":"Design a landing page","Class_Date":"09-09-2020","Month":"September"}
+{"_id":{"$oid":"634d6d1394b4236f1b0a9aaf"},"Topic_Id":{"$numberInt":"2"},"Task_Id":{"$numberInt":"3"},"Task_Detail":"Hall booking with API","Class_Date":"19-10-2020","Month":"October"}
+{"_id":{"$oid":"634d6d1394b4236f1b0a9aae"},"Topic_Id":{"$numberInt":"3"},"Task_Id":{"$numberInt":"2"},"Task_Detail":"Students Database","Class_Date":"20-10-2020","Month":"October"}
+{"_id":{"$oid":"634d6d1394b4236f1b0a9aad"},"Topic_Id":{"$numberInt":"1"},"Task_Id":{"$numberInt":"1"},"Task_Detail":"Form validation using Formik ","Class_Date":"15-08-2020","Month":"August"}

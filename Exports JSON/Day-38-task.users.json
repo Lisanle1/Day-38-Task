@@ -1,0 +1,5 @@
+{"_id":{"$oid":"634d58fe94b4236f1b0a9a7c"},"id":{"$numberInt":"5"},"Name":"Harshini","Email":"harshini@gmail.com","Gender":"female","Phone_No":"8454513569","Address":"Bangalore"}
+{"_id":{"$oid":"634d58fe94b4236f1b0a9a7b"},"id":{"$numberInt":"4"},"Name":"Josua","Email":"josua@gmail.com","Gender":"male","Phone_No":"7458963145","Address":"Salem"}
+{"_id":{"$oid":"634d58fe94b4236f1b0a9a7a"},"id":{"$numberInt":"3"},"Name":"Raj","Email":"raj@gmail.com","Gender":"male","Phone_No":"8456127925","Address":"Trivandrum"}
+{"_id":{"$oid":"634d58fe94b4236f1b0a9a79"},"id":{"$numberInt":"2"},"Name":"Manish","Email":"manish@gmail.com","Gender":"male","Phone_No":"98728212324","Address":"Coimbatore"}
+{"_id":{"$oid":"634d58fe94b4236f1b0a9a78"},"id":{"$numberInt":"1"},"Name":"Jothi","Email":"jothi@gmail.com","Gender":"male","Phone_No":"9638412574","Address":"Chennai"}
